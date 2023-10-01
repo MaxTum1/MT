@@ -1,1 +1,2 @@
 Master branch modification in file2
+Added a new line for case 3
